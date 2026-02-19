@@ -20,7 +20,7 @@ To transform messy datasets into clear, meaningful stories that support smarter 
 If you're here to explore, collaborate, or just follow my journey — I'm really glad you're here 🤍
 
 ### 📫 Let's Connect!
-- LinkedIn: (https://www.linkedin.com/in/bhawana-12677b382/)
+- LinkedIn: (https://www.linkedin.com/in/bhawana1602/)
 
 
 ### 🛠️ Tech Stack
