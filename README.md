@@ -14,7 +14,7 @@ Here’s what you’ll find here:
 
 Right now, I’m sharpening my skills in **Excel, SQL, Power BI, and Python** through hands-on practice and online learning.
 
-My goal?  
+💡My goal?  
 To transform messy datasets into clear, meaningful stories that support smarter business decisions.
 
 If you're here to explore, collaborate, or just follow my journey — I'm really glad you're here 🤍
