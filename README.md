@@ -17,8 +17,6 @@ Right now, I’m sharpening my skills in **Excel, SQL, Power BI, and Python** th
 💡My goal?  
 To transform messy datasets into clear, meaningful stories that support smarter business decisions.
 
-If you're here to explore, collaborate, or just follow my journey — I'm really glad you're here 🤍
-
 ## 📁 Projects
 Here are some of the projects I worked on:
 
@@ -41,6 +39,8 @@ Performed business-focused data analysis using SQL. Extracted insights from raw 
 🔹 **Coffee Sales Dashboard (Excel)**  
 Designed an interactive Excel dashboard to track sales performance across regions and categories with clear visual insights.  
 👉 https://github.com/Bhawana1602/coffee-sales-analysis-dashboard-excel 
+
+If you're here to explore, collaborate, or just follow my journey — I'm really glad you're here 🤍
 
 ### 📫 Let's Connect!
 - LinkedIn: (https://www.linkedin.com/in/bhawana1602/)
