@@ -24,23 +24,23 @@ Here are some of the projects I worked on:
 
 🔹 **Airbnb Performance Dashboard (Power BI)**  
 Developed an interactive dashboard to analyze listings, bookings, ratings, and reviews. Tracks key KPIs like average price, occupancy, and customer feedback.  
-👉 https://github.com/yourusername/airbnb-performance-power-bi-dashboard  
+👉 https://github.com/Bhawana1602/airbnb-performance-power-bi-dashboard
 
 🔹 **HR Analytics Dashboard (Power BI)**  
 Built a dashboard to analyze employee attrition and workforce trends using HR metrics. Helps identify patterns in employee turnover and retention.  
-👉 https://github.com/yourusername/HR-analytics-power-bi-dashboard  
+👉 https://github.com/Bhawana1602/HR-analytics-power-bi-dashboard 
 
 🔹 **Spotify Analytics Dashboard (Power BI)**  
 Created a dashboard to explore global music trends, track popularity, artist performance, and ranking insights using DAX and data visualization.  
-👉 https://github.com/yourusername/spotify-analytics-power-bi-dashboard  
+👉 https://github.com/Bhawana1602/spotify-analytics-power-bi-dashboard
 
 🔹 **Zepto Data Analysis (SQL Project)**  
 Performed business-focused data analysis using SQL. Extracted insights from raw datasets through complex queries and data exploration.  
-👉 https://github.com/yourusername/zepto-SQL-data-analysis-project  
+👉 https://github.com/Bhawana1602/zepto-SQL-data-analysis-project 
 
 🔹 **Coffee Sales Dashboard (Excel)**  
 Designed an interactive Excel dashboard to track sales performance across regions and categories with clear visual insights.  
-👉 https://github.com/yourusername/coffee-sales-analysis-dashboard-excel  
+👉 https://github.com/Bhawana1602/coffee-sales-analysis-dashboard-excel 
 
 ### 📫 Let's Connect!
 - LinkedIn: (https://www.linkedin.com/in/bhawana1602/)
