@@ -20,8 +20,8 @@ To transform messy datasets into clear, meaningful stories that support smarter 
 ## 📁 Projects
 Here are some of the projects I worked on: 
 
-🔹 **Airbnb Performance Dashboard (Power BI)**  
-Developed an interactive dashboard to analyze listings, bookings, ratings, and reviews. Tracks key KPIs like average price, occupancy, and customer feedback.  
+🔹 **Customer Shopping Behavior Analytics Dashboard —— End-to-End Data Analysis Project**  
+This project provides an end-to-end data analysis solution analyzing **customer shopping behavior, demographics, purchasing frequency, and revenue trends. 
 👉  https://github.com/Bhawana1602/end-to-end-customer-behavior-analysis
 
 🔹 **Airbnb Performance Dashboard (Power BI)**  
