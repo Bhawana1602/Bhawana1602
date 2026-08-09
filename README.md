@@ -19,6 +19,7 @@ To transform messy datasets into clear, meaningful stories that support smarter 
 
 ## 📁 Projects
 Here are some of the projects I worked on: 
+
 🔹 **Customer Shopping Behavior Analytics Dashboard —— End-to-End Data Analysis Project**  
 This project provides an end-to-end data analysis solution analyzing customer shopping behavior, demographics, purchasing frequency, and revenue trends.
 👉 https://github.com/Bhawana1602/end-to-end-customer-behavior-analysis
