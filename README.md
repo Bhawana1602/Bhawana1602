@@ -18,7 +18,11 @@ Right now, I’m sharpening my skills in **Excel, SQL, Power BI, and Python** th
 To transform messy datasets into clear, meaningful stories that support smarter business decisions.
 
 ## 📁 Projects
-Here are some of the projects I worked on:
+Here are some of the projects I worked on: 
+
+🔹 **Airbnb Performance Dashboard (Power BI)**  
+Developed an interactive dashboard to analyze listings, bookings, ratings, and reviews. Tracks key KPIs like average price, occupancy, and customer feedback.  
+👉  https://github.com/Bhawana1602/end-to-end-customer-behavior-analysis
 
 🔹 **Airbnb Performance Dashboard (Power BI)**  
 Developed an interactive dashboard to analyze listings, bookings, ratings, and reviews. Tracks key KPIs like average price, occupancy, and customer feedback.  
