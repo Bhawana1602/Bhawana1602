@@ -1,6 +1,6 @@
 ## 👋 Hey there, welcome to my GitHub!
 
-I’m Bhawana — a Computer Science student at United College of Engineering and Research and an aspiring Data Analyst on a focused journey to grow every single day.
+I’m Bhawana — a Computer Science graduate from United College of Engineering & Research and an aspiring Data Analyst on a focused journey to grow every single day.
 
 I’m passionate about learning new tech skills, building real-world projects, and turning raw data into insights that actually make sense.
 
